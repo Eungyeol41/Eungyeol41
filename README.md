@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4b6cb7&text=%20Eungyeol%20%20&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Eungyeol%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 [![Eungyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eungyeol41&count_private=true&custom_title=Eungyeol's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -18,4 +18,4 @@
 </P>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=4b6cb7)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
