@@ -3,6 +3,14 @@
 [![Eungyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eungyeol41&count_private=true&custom_title=Eungyeol's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+지금까지의 팀 프로젝트 기여도 살펴보기
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=Eungyeol41&repo=BlackJack)](https://github.com/Eungyeol41/BlackJack.git)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=Eungyeol41&repo=Sports_Project)](https://github.com/Eungyeol41/Sports_Project.git)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=Eungyeol41&repo=Art_Recycle)](https://github.com/soyeon-noh/Art_Recycle.git)
+-->
+
 <hr>
 <p align=center>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
