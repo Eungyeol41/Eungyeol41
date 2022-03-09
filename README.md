@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Eungyeol%20%20&height=200&fontSize=90&fontColor=ffffff)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eungyeol41&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Eungyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eungyeol41&count_private=true&custom_title=Eungyeol's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Eungyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eungyeol41&count_private=true&custom_title=Eungyeol's&nbsp;github&nbsp;&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact&custom_title=My&nbsp;Language&nbsp;&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 지금까지의 팀 프로젝트 기여도 살펴보기
