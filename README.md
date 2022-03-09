@@ -12,11 +12,12 @@
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=Eungyeol41&repo=Art_Recycle)](https://github.com/soyeon-noh/Art_Recycle.git)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=Eungyeol41&repo=Now_3Days)](https://github.com/Team-NanaScript/Now_3Days.git)
 
+<hr>
+
 <!--
 Github 방문자수
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEungyeol41&count_bg=%237F7FD5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
-<hr>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEungyeol41&count_bg=%237F7FD5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 Acting SKILL
