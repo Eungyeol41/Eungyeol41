@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Eungyeol%20%20&height=200&fontSize=90&fontColor=ffffff)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eungyeol41&margin-w=15&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![Eungyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eungyeol41&count_private=true&custom_title=Eungyeol's&nbsp;github&nbsp;&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact&custom_title=My&nbsp;Language&nbsp;&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,7 +27,6 @@
   <img src="https://img.shields.io/badge/MARIA DB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 </p>  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=callor&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- 
 <p align=center>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
