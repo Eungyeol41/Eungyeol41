@@ -35,7 +35,7 @@ Github 방문자수
 </p>  
 <p align=center>
   <a href="https://velog.io/@debut12"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-  <a href="https://github.com/Eungyeol41><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <a href="https://github.com/Eungyeol41"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
 </p>
 
