@@ -17,9 +17,20 @@ Github 방문자수
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEungyeol41&count_bg=%237F7FD5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 <hr>
+
+<!--
+Acting SKILL
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" height="58" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="58" height="58" />
+</div>
+-->
+
 <p align=center>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
+  <!-- <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> -->
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <p>
@@ -35,7 +46,8 @@ Github 방문자수
 </p>  
 <p align=center>
   <a href="https://velog.io/@debut12"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat-square&logo=Velog&logoColor=white"/>
-  <a href="https://github.com/Eungyeol41"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <!-- <a href="https://github.com/Eungyeol41"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GitHub&logoColor=white"/> -->
+  <a href="https://github.com/Eungyeol41"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
 </p>
 
