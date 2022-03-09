@@ -24,6 +24,8 @@
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MARIA DB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 </p>  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=callor&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- 
 <p align=center>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
