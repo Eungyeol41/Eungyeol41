@@ -43,7 +43,14 @@ Acting SKILL
   <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MARIA DB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-</p>  
+</p>
+<!--
+조만간 추가
+<p align=center>
+  <img src="https://img.shields.io/badge/CORDOVA-003545?style=flat-square&logo=Apache Cordova&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SWAGGER_UI-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>
+</p> 
+-->
 <p align=center>
   <img src="https://img.shields.io/badge/INTELLIJ_IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
