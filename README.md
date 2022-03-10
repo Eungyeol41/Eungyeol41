@@ -1,22 +1,29 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Eungyeol%20%20&height=200&fontSize=90&fontColor=ffffff)
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Eungyeol41&margin-w=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy) -->
+<img src="https://github-profile-trophy.vercel.app/?username=Eungyeol41&margin-w=15">
+
+<!--<a href="https://github.com/Eungyeol41"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Eungyeol41&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SOKURI's github stats" /></a>-->
 <div align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=Eungyeol41&margin-w=15&row=2&column=3">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkk41">
+<img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" />
+<img style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkk41">
 </div>
-<br>
-
-<!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkk41"> -->
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkk41)](https://solved.ac/kkk41/) -->
-
-<a href="https://github.com/Eungyeol41"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Eungyeol41&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SOKURI's github stats" /></a>
-<a href="https://github.com/Eungyeol41"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
-
 <!--
 [![Eungyeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eungyeol41&count_private=true&custom_title=Eungyeol's&nbsp;github&nbsp;&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact&custom_title=My&nbsp;Language&nbsp;&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Eungyeol41&margin-w=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+<div align='center'&flex-direction: row;>
+  <img src="https://github-profile-trophy.vercel.app/?username=Eungyeol41&margin-w=15&row=2&column=3">
+  <div display='flex'>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEungyeol41&count_bg=%237F7FD5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false">
+  
+  </div>
+</div>
+<br>
+-->
+<!-- <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkk41"> -->
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkk41)](https://solved.ac/kkk41/) -->
 
 <!-- 
 지금까지의 팀 프로젝트 기여도 살펴보기
