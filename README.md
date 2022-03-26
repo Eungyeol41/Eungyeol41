@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Eungyeol%20%20&height=200&fontSize=90&fontColor=ffffff)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Eungyeol41&margin-w=15">
+<div align='center'>
+  <img src="https://github-profile-trophy.vercel.app/?username=Eungyeol41&margin-w=15&row=2&column=4">
+</div>
 
 <div align='center'>
-<img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" />
-<img style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkk41">
+  <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" />
+  <img style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kkk41">
 </div>
 
 <hr>
