@@ -28,7 +28,6 @@
   
 <p>
 <p align=center>
-  <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MONGO_DB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
@@ -36,7 +35,8 @@
 </p>
 <p align=center>
   <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/INTELLIJ_IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/INTELLIJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
 </p>  
@@ -44,7 +44,7 @@
   <a href="https://velog.io/@debut12"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat&logo=Velog&logoColor=white"/>
   <!-- <a href="https://github.com/Eungyeol41"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GitHub&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/SUBVERSION-809CC9?style=flat&logo=Subversion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TISTORY-333333?style=flat&logo=Tistory&logoColor=white"/>
+  <a href="https://debut12.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-333333?style=flat&logo=Tistory&logoColor=white"/></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
