@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Eungyeol%20%20&height=200&fontSize=90&fontColor=ffffff)
 
-<div align='center'>
-  <img style="height:200px" src="https://github-profile-trophy.vercel.app/?username=Eungyeol41&margin-w=15&row=2&column=4">
+<div>
+  <img style="height:200px" src="https://github-profile-trophy.vercel.app/?username=Eungyeol41&margin-w=3&row=2&column=4">
   <img style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" />
 </div>
 
