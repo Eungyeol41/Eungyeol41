@@ -1,15 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20Eungyeol%20%20&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=%20SILVER%20%20&height=200&fontSize=90&fontColor=ffffff)
 
 <div align=center>
-  <img style="height:200px;width:450px" src="https://github-profile-trophy.vercel.app/?username=Eungyeol41&margin-w=3&row=2&column=4">
-  <img style="height:250px;width:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eungyeol41&layout=compact" />
+  <img style="height:200px;width:450px" src="https://github-profile-trophy.vercel.app/?username=SGIYLEVOELR&margin-w=3&row=2&column=4">
+  <img style="height:250px;width:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SGIYLEVOELR&layout=compact" />
 </div>
 
 <br />
 
 <hr>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEungyeol41&count_bg=%237F7FD5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSGIYLEVOELR&count_bg=%237F7FD5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align=center>
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
