@@ -15,7 +15,7 @@
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <a href="https://github.com/Eungyeol41"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <a href="https://github.com/SGIYLEVOELR"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
 </p>
 <p align=center>
@@ -41,7 +41,7 @@
 </p>  
 <p align=center>
   <a href="https://velog.io/@debut12"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat&logo=Velog&logoColor=white"/>
-  <!-- <a href="https://github.com/Eungyeol41"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GitHub&logoColor=white"/> -->
+  <!-- <a href="https://github.com/SGIYLEVOELR"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GitHub&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/SUBVERSION-809CC9?style=flat&logo=Subversion&logoColor=white"/>
   <a href="https://debut12.tistory.com/"><img src="https://img.shields.io/badge/TISTORY-333333?style=flat&logo=Tistory&logoColor=white"/></a>
 </p>
