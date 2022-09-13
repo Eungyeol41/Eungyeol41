@@ -28,7 +28,7 @@
 <p>
 <p align=center>
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat&logo=Oracle&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/MONGO_DB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
   <img src="https://img.shields.io/badge/MARIA DB-003545?style=flat&logo=MariaDB&logoColor=white"/>
 </p>
