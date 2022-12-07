@@ -40,8 +40,7 @@
   <img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
 </p>  
 <p align=center>
-  <a href="https://velog.io/@debut12" target="_blank"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat&logo=Velog&logoColor=white"/>
-  <!-- <a href="https://github.com/SGIYLEVOELR"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=GitHub&logoColor=white"/> -->
+  <a href="https://velog.io/@debut12" target="_blank"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat&logo=Velog&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SUBVERSION-809CC9?style=flat&logo=Subversion&logoColor=white"/>
   <a href="https://debut12.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-333333?style=flat&logo=Tistory&logoColor=white"/></a>
 </p>
