@@ -34,9 +34,9 @@
 <p align=center>
   <img src="https://img.shields.io/badge/ECLIPSE-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/INTELLIJ-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ANDROID_STUDIO-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-black?style=flat&logo=IntelliJ%20IDEA&logoColor=ffffff"/>
+<!--   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/>
 </p>  
 <p align=center>
   <a href="https://velog.io/@debut12" target="_blank"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat&logo=Velog&logoColor=white"/></a>
